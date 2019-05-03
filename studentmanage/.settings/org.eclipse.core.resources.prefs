@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin_index.jsp=UTF-8
+encoding//WebContent/admin_index_head.jsp=UTF-8
+encoding//WebContent/admin_index_left.jsp=UTF-8
+encoding//WebContent/admin_index_main.jsp=UTF-8
+encoding//WebContent/teacher_index.jsp=UTF-8
+encoding//WebContent/teacher_index_head.jsp=UTF-8
+encoding//WebContent/teacher_index_left.jsp=UTF-8
+encoding//WebContent/teacher_index_main.jsp=UTF-8
+encoding//src/Filter/LoginFilter.java=UTF-8
+encoding//src/StudentServlet/ImageAddServlet.java=UTF-8
+encoding//src/teacher_servlet=UTF-8
+encoding/<project>=UTF-8
